@@ -141,7 +141,7 @@ export default function Navbar() {
                     className="flex justify-end text-base font-medium  text-white"
                     onClick={() => scrollToService(possibity)}
                   >
-                    Case Studie
+                    Case Studies
                   </Link>
                   <Link
                     to="#"
